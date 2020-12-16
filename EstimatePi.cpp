@@ -4,7 +4,7 @@
 
 /**************************************************************************
  * Project to estimate pi from no. of points in and outside of the circle*
- * Referenced by 
+ * Referenced by Joma Tech: https://youtu.be/pvimAM_SLic
  **************************************************************************/
 
 //Generate random float number between 0 ~ 1 (python random.uniform)
